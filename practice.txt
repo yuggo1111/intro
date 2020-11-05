@@ -3,3 +3,4 @@ wwwww
 annpannmann
 ttt
 git status
+git diff
