@@ -1,1 +1,7 @@
 git practice
+wwwww
+annpannmann
+ttt
+git status
+git diff
+git y
